@@ -9,7 +9,7 @@ const config = {
   title: 'HERLON',
   tagline: '这是一款能满足你对智能家居所有想象的网关',
   url: 'https://herlon.github.com',
-  baseUrl: '/',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
